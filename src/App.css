@@ -1,0 +1,16 @@
+body{
+  background-color: #fafafa ;
+}
+.container{
+  align-items: center;
+}
+.slick-dots li.slick-active button:before {
+  color: black;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+  font-size : "100px"
+
+}
